@@ -205,10 +205,9 @@ This model was selected for local inference and stable execution in the project 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/renadaelsalamony-wq/Medical-RAG-Assistant.git
-cd Medical-RAG-Assistant
+git clone https://github.com/Malak-Moataz22/MEDICAL_RAG_ASSISTANT-.git
+cd MEDICAL_RAG_ASSISTANT-
 ```
-
 ### 2. Create a Virtual Environment
 
 ```bash
